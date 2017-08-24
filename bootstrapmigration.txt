@@ -1,0 +1,22 @@
+BOOTSTRAP4 1.1 - Intro to video for Bootstrap 4
+BOOTSTRAP4 1.2 - CDN vs Download
+BOOTSTRAP4 1.3 - Layout
+BOOTSTRAP4 1.4 - Content
+BOOTSTRAP4 1.5 - Components
+BOOTSTRAP4 1.6 - Utilities
+BOOTSTRAP4 1.7 - Migration
+BOOTSTRAP4 1.8 - Outro to video for Bootstrap 4
+
+
+
+BOOTSTRAP4 1.1 - Intro to video for Bootstrap 4
+Chris from Codify Academy here.
+In this video we're going to look at the new release of bootstrap, we are at number 4, it is very similar to Bootstrap 3, oh and if this is your first time hearing about bootstrap, it is a bunch of CSS and Javascript that we can include in any project and use their code to build websites.
+
+BOOTSTRAP4 1.2 - CDN vs Download
+BOOTSTRAP4 1.3 - Layout
+BOOTSTRAP4 1.4 - Content
+BOOTSTRAP4 1.5 - Components
+BOOTSTRAP4 1.6 - Utilities
+BOOTSTRAP4 1.7 - Migration
+BOOTSTRAP4 1.8 - Outro to video for Bootstrap 4
